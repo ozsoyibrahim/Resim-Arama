@@ -4,6 +4,6 @@
 
 ### Bu çalışma, HTML, CSS ve Javascript kodları kullanılarak hazırlanmıştır.
 
-### Siteyi görmek isterseniz lütfen <a href="#">BURAYA TIKLAYINIZ!</a>
+### Siteyi görmek isterseniz lütfen <a href="https://ozsoyibrahim.github.io/Resim-Arama/">BURAYA TIKLAYINIZ!</a>
 
 ![screen.gif](images/screen.gif)
